@@ -10,6 +10,6 @@ It sets up include directory and suppresses [C4819](http://msdn.microsoft.com/en
 Works with *windows only* for now.
 
 ## NOTICE
-**glm-gyp** contains the original work GLM authors.
+**glm-gyp** contains the original work of GLM authors.
 [MIT License](http://opensource.org/licenses/mit-license.php).
 See glm-0.9.3.4/copying.txt and glm-0.9.3.4/readme.txt also.
